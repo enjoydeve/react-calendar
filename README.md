@@ -17,10 +17,6 @@ use case. This
 [example](https://github.com/Hanse/react-calendar/tree/master/examples/basic)
 shows how to create a regular grid calendar.
 
-# Live Demo
-
-http://hanse.github.io/react-calendar/
-
 # Usage
 
 ```js
